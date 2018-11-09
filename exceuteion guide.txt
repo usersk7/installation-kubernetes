@@ -1,0 +1,9 @@
+
+#execute in both master and slave
+
+sh basic.sh 
+
+
+#execute in master node
+ 
+sh master.sh ip_master salave_pass slave_ip    
